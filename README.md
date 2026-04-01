@@ -6,4 +6,4 @@
 - Lab 1.3: Flutter Widgets
 
 ## Video giải thích toàn bộ Lab 1
-[Xem video tại đây]https://www.youtube.com/watch?v=GDYwJzMT4rc
+[Xem video tại đây](https://www.youtube.com/watch?v=GDYwJzMT4rc)
